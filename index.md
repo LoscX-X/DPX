@@ -1,9 +1,3 @@
----
-title: DPX Format Usage & Protection Agreement v1.0
-description: Legal status, permitted use, and protective rights for artworks distributed in the DPX (Drawing Protected eXtended) format.
-published: 2025-11-05
----
-
 #  DPX Format Usage & Protection Agreement v1.0
 
 This Agreement governs the legal status, permitted use, and protective rights associated with any digital artwork distributed under the **DPX format (Drawing Protected eXtended)**.
